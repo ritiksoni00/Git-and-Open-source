@@ -4,3 +4,9 @@
 
 
 <b> This repo will help for those who dont know how to use git and github after complete all the 5 tasks you will be able to contribute to any open source tech. 
+  
+  
+  <h1>Task 1:-
+  <h5> complete the given task given Below:-
+
+<a href= "https://docs.google.com/document/d/1S7W6Z9vR7IyG_xuDQyA8q9_XTyGZFMUuu3kMegkEvpw/edit">Open task 1</a>
