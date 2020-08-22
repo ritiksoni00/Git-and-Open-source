@@ -8,7 +8,11 @@
 <b> This repo will help for those who dont know how to use git and github after complete all the 5 tasks you will be able to contribute to any open source organisation. 
   
   
-<h1>Task 1:-<a href= "https://docs.google.com/document/d/1vKbQGwG9GL1iNs_B3nJvYoh9-xU0YGhzQrMdm9xIvEE/edit#">Here</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>Task 2:-<a href= "https://docs.google.com/document/d/1pl9TtVxEjAXlrMXlMuMtCNxhBUaTsGgVCtzzG7rkNzc/edit">Here</a>
-<h1>Task 3:-<a href= "https://docs.google.com/document/d/10udkY07fVKHYL7KKN4z3vC8I_8I54M9SByCsM-0irbA/edit#">Here</a>
-<h1>Task 4:-<a href= "https://docs.google.com/document/d/10JpHAbgV3jnx_xhoHZYagrPbGLWfs5vwZPFIq_wqgHk/edit">Here</a>
-<h1>Task 5:-<a href= "https://docs.google.com/document/d/1ZPYd5xl5q5R022ZxCf8dKpFQYaQcDC5z6g1CmewkKCQ/edit">Here</a>
+<pre>Task 1:-<a href= "https://docs.google.com/document/d/1vKbQGwG9GL1iNs_B3nJvYoh9-xU0YGhzQrMdm9xIvEE/edit#">Here</a>                                                                                                    Task 2:-<a href= "https://docs.google.com/document/d/1pl9TtVxEjAXlrMXlMuMtCNxhBUaTsGgVCtzzG7rkNzc/edit">Here</a>
+                                                       Task 3:-<a href= "https://docs.google.com/document/d/10udkY07fVKHYL7KKN4z3vC8I_8I54M9SByCsM-0irbA/edit#">Here</a>
+Task 4:-<a href= "https://docs.google.com/document/d/10JpHAbgV3jnx_xhoHZYagrPbGLWfs5vwZPFIq_wqgHk/edit">Here</a>                                                                                                    Task 5:-<a href= "https://docs.google.com/document/d/1ZPYd5xl5q5R022ZxCf8dKpFQYaQcDC5z6g1CmewkKCQ/edit">Here</a></pre>
+
+
+
+
+
