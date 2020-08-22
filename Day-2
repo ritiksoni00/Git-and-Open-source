@@ -1,0 +1,10 @@
+Answer these Questions:-
+
+1. Share the link to the GitHub repository you have created.
+2. Your README should contain a brief about the project and should be written in markdown language.
+Drop the answer to the following questions
+ a. How git workflow works?
+ b. What're the different stages of a git project as commit, add?
+ c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+ d. Why is git diff used?
+ e. Can we leave the commit message as blank?
