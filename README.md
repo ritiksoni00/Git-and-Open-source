@@ -15,7 +15,7 @@ Task 4:-<a href= "https://docs.google.com/document/d/10JpHAbgV3jnx_xhoHZYagrPbGL
 
 
 
-Open For Contribution If You Want to!
+Open For Contribution If You Want to! it will be reat if you start working from now and start contributing through this repo:))
 
 All the resources From <a href="https://github.com/codewayy">Codewayy</a>
 
