@@ -5,10 +5,11 @@
 ![download](https://user-images.githubusercontent.com/47344024/87243162-452a0c00-c451-11ea-961e-f33eb3cc444d.png)
 </div>
 
-<b> This repo will help for those who dont know how to use git and github after complete all the 5 tasks you will be able to contribute to any open source tech. 
+<b> This repo will help for those who dont know how to use git and github after complete all the 5 tasks you will be able to contribute to any open source organisation. 
   
   
-  <h1>Task 1:-
-  <h5> complete the given task given Below:-
-
-<a href= "https://docs.google.com/document/d/1S7W6Z9vR7IyG_xuDQyA8q9_XTyGZFMUuu3kMegkEvpw/edit">Open task 1</a>
+<h1>Task 1:-<a href= "https://docs.google.com/document/d/1vKbQGwG9GL1iNs_B3nJvYoh9-xU0YGhzQrMdm9xIvEE/edit#">Here</a>
+<h1>Task 2:-<a href= "https://docs.google.com/document/d/1pl9TtVxEjAXlrMXlMuMtCNxhBUaTsGgVCtzzG7rkNzc/edit">Here</a>
+<h1>Task 3:-<a href= "https://docs.google.com/document/d/10udkY07fVKHYL7KKN4z3vC8I_8I54M9SByCsM-0irbA/edit#">Here</a>
+<h1>Task 4:-<a href= "https://docs.google.com/document/d/10JpHAbgV3jnx_xhoHZYagrPbGLWfs5vwZPFIq_wqgHk/edit">Here</a>
+<h1>Task 5:-<a href= "https://docs.google.com/document/d/1ZPYd5xl5q5R022ZxCf8dKpFQYaQcDC5z6g1CmewkKCQ/edit">Here</a>
