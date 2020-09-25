@@ -26,6 +26,9 @@ All the resources From <a href="https://github.com/codewayy">Codewayy</a>
 
 
 # 
+
+<div align="center"><b>Open-Source
+  
 You probably heard Name like <b>Open-Source</b>! 
   one thing that will hit your mind that what actually is this all about? 
   
