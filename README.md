@@ -1,4 +1,4 @@
-# Github_Series By Codewayy 
+# Github_Series By <a href="https://github.com/codewayy">Codewayy</a>
 ### Beginner Guide to GIT and Github if you'll follow this repo i thing you will get it what you want
 <div align="center">
   
@@ -18,11 +18,7 @@ Task 4:-<a href= "https://docs.google.com/document/d/e/2PACX-1vSm_uGn6JwWdLcl21X
 
 Open For Contribution If You Want to! it will be reat if you start working from now and start contributing through this repo:))
 
-### Start Git Practice  <a href="https://learngitbranching.js.org/">Here</a> 
-
-
-
-All the resources From <a href="https://github.com/codewayy">Codewayy</a>
+### Start Git Practice  <a href="https://learngitbranching.js.org/">Here</a>
 
 
 # 
