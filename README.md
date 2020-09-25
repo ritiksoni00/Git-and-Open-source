@@ -25,6 +25,22 @@ Open For Contribution If You Want to! it will be reat if you start working from 
 All the resources From <a href="https://github.com/codewayy">Codewayy</a>
 
 
+# 
+You probably heard Name like <b>Open-Source</b>! 
+  one thing that will hit your mind that what actually is this all about? 
+  
+  
+ #### In simple words:- it is actually a processs in which we first see other's work and then start making changes or add someting new into it!
+ 
+ 
+ Now here i'm providing some 'How to Contribute first time' Repositries so that you will have some understanding about how Open-source's work Flow:-
+ 
+ 1. <a href="https://github.com/yourfirstpr/yourfirstpr.github.io/issues">Your First Pul Request</a>
+ 2. <a href="https://github.com/mungell/awesome-for-beginners">Awesome For Beginners</a>
+ 3. <a href="https://up-for-grabs.net/#/">Up For Grabs</a>
+ 4. <a href="http://issuehub.io/">Issue Hub</a>
+ 5. <a href="https://www.firsttimersonly.com/">First-Time-Only</a>
 
 
 
+will be updated with Time! till then Enjoy Works!
