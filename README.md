@@ -1,4 +1,4 @@
-# Github_Series By Codewayy A community for Gsoc'21
+# Github_Series By Codewayy 
 ### Beginner Guide to GIT and Github if you'll follow this repo i thing you will get it what you want
 <div align="center">
   
