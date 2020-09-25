@@ -9,9 +9,9 @@
 <b> This repo will help for those who dont know how to use git and github after complete all the 5 tasks you will be able to contribute to any open source organisation. 
   
   
-<pre>Task 1:-<a href= "https://docs.google.com/document/d/1vKbQGwG9GL1iNs_B3nJvYoh9-xU0YGhzQrMdm9xIvEE/edit#">Here</a>                                                                            Task 2:-<a href= "https://docs.google.com/document/d/1pl9TtVxEjAXlrMXlMuMtCNxhBUaTsGgVCtzzG7rkNzc/edit">Here</a>                                       
-                                         Task 3:-<a href= "https://docs.google.com/document/d/10udkY07fVKHYL7KKN4z3vC8I_8I54M9SByCsM-0irbA/edit#">Here</a>
-Task 4:-<a href= "https://docs.google.com/document/d/10JpHAbgV3jnx_xhoHZYagrPbGLWfs5vwZPFIq_wqgHk/edit">Here</a>                                                                            Task 5:-<a href= "https://docs.google.com/document/d/1ZPYd5xl5q5R022ZxCf8dKpFQYaQcDC5z6g1CmewkKCQ/edit">Here</a></pre>
+<pre>Task 1:-<a href= "https://docs.google.com/document/d/e/2PACX-1vT9zStM_dMr6GsMS72uNG7PS_x6PBP4RPInt7p8oGkuuNE7Wlu83IxMzVxDquj4yoed8GlsxD09iwSA/pub">Here</a>                                                                            Task 2:-<a href= "https://docs.google.com/document/d/e/2PACX-1vR_jZx66G8VnVkAzD0FtW7S5pChree5kWAztz6qV3ekLOXBDWJ2mCxc4KcknKKMXe8hCeexB8oH2h0O/pub">Here</a>                                       
+                                         Task 3:-<a href= "https://docs.google.com/document/d/e/2PACX-1vSPqwWGYc0BRvRm0yVPlPqLe610a3RipexUbgTOqBjlaQXheXmGfjYUGMzJjnSD5B2MTnQCo66OTFNk/pub">Here</a>
+Task 4:-<a href= "https://docs.google.com/document/d/e/2PACX-1vSm_uGn6JwWdLcl21Xd3dccbVy-sDoGq8YornOQMenAQGxD-v-1s79LOZRsb4l4vmlvOVNbYqT7Q4y5/pub">Here</a>                                                                            Task 5:-<a href= "https://docs.google.com/document/d/e/2PACX-1vTPEaI_ue7mwyYTgC9t8mdKDGMPlbG8O4cwAwgHSKeHJNCWHxLgXuMsQc_ohRYxMM2K3xOmlG61EdV1/pub">Here</a></pre>
 
 
 
