@@ -1,11 +1,11 @@
-# Github_Series By <a href="https://github.com/codewayy">Codewayy</a>
 
-### Beginner Guide to GIT and Github if you'll follow this repo i thing you will get it what you want
+<div align="center">
+  
+  # Github_Series By <a href="https://github.com/codewayy">Codewayy</a> </div>
 
 
 
-## What is [Open Source](https://www.redhat.com/en/topics/open-source/what-is-open-source)?
-### Beginner's Guide to GIT and Github if you'll follow this repo i thing you will get it what you want
+ ### Beginner's Guide to GIT and Github if you'll follow this repo i thing you will get it what you want
 
 <div align="center">
   
@@ -33,6 +33,11 @@ Open For Contribution If You Want to! it will be reat if you start working from 
 <div align="center" ><b>Open-Source</b>
   </div>
   
+  
+<div align="center">  
+ 
+  What is [Open Source](https://www.redhat.com/en/topics/open-source/what-is-open-source)?</div>
+ 
 You probably heard Name like <b>Open-Source</b>! 
   one thing that will hit your mind that what actually is this all about? 
   
