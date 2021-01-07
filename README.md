@@ -57,4 +57,24 @@ You probably heard Name like <b>Open-Source</b>!
 
 will be updated with Time! till then Enjoy!
 
-<div align="center">Contributores are Welcome! 
+<div align="center">Contributores are Welcome! </div>
+
+ <br>
+Providing some of the best resources on github... {actually if we will folllow any one of them we will get our destination}:-
+
+Tring to get into Open-Source Programm
+
+1. GSOC
+2. MLHFellowship
+3. Outreachy 
+
+
+
+
+
+
+
+
+
+  
+
